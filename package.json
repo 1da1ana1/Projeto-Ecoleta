@@ -1,0 +1,11 @@
+{
+  "name": "rocketseat",
+  "scripts": {
+    "start": "nodemon NLW/NLW_discover/src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "nunjucks": "^3.2.4"
+  }
+}
