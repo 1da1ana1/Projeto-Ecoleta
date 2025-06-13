@@ -61,7 +61,7 @@ const collectedItems = document.querySelector("input[name=items]")
 let selectItems = []
 
 function handleSelectedItem(event){
-    const itemLi = event.target
+    const itemLi = event.currentTarget
 
     itemLi.classList.toggle("selected")
 
