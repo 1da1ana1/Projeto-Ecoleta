@@ -56,5 +56,5 @@ Após executar os comandos, abra `http://localhost:3000` no seu navegador.
 
 **Yasmim Daiana**
 
-* LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/yasmim-daiana/)
+* LinkedIn: https://www.linkedin.com/in/yasmim-daiana/
 * Email: y166939@dac.unicamp.br
